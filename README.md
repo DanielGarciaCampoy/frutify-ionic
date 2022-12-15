@@ -1,2 +1,2 @@
-# Proyecto formación inicial de Ionic
-# Frutify
+# Proyecto formación inicial de Ionic: Frutify
+
