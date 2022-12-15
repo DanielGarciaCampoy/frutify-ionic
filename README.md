@@ -1,6 +1,6 @@
 # Proyecto formación inicial de Ionic: Frutify
 
-- Video de youtube:
+- Video de youtube: https://www.youtube.com/watch?v=3prvbAMo7Js
 
 
 - Pantalla principal
