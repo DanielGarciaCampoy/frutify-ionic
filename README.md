@@ -1,6 +1,6 @@
 # Proyecto formación inicial de Ionic: Frutify
 
-- Video de youtube
+- Video de youtube:
 
 
 - Pantalla principal
@@ -24,4 +24,14 @@
 - Modal de ayuda de clientes
 ![7](https://user-images.githubusercontent.com/72436388/207979098-2082fcb2-cf84-4287-90b9-329ea89b58eb.png)
 
-- 
+- Lista de ventas, asigna clientes y productos y muestra los kilos comprados y su precio
+![8](https://user-images.githubusercontent.com/72436388/207979213-2463345b-faba-48e9-a2fe-9f38b494dd4c.png)
+
+- Modificar/añadir registro de venta
+- ![9](https://user-images.githubusercontent.com/72436388/207979270-b07a3721-8054-493c-b7d8-484b178422b6.png)
+
+- Página about
+- ![10](https://user-images.githubusercontent.com/72436388/207979323-7412cffc-64a0-4ec5-946b-3a3ddb5e4789.png)
+
+- Página about con modo oscuro y en inglés:
+- ![11](https://user-images.githubusercontent.com/72436388/207979396-48635a5e-43f7-4b28-bb8d-4801eefdcc08.png)
